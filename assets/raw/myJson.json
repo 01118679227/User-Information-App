@@ -1,0 +1,67 @@
+{
+  "previous": "some url for the previous page",
+  "next": "some url for the next page",
+  "result": [
+    {
+      "first_name": "Superm",
+      "last_name": "Nandal",
+      "email": "superm.nandal@gmail.com",
+      "phone": "+911234567890",
+      "verified": true
+    },
+    {
+      "first_name": "Superm",
+      "last_name": "Nandal",
+      "email": "superm.nandal@gmail.com",
+      "phone": "+911234567890",
+      "verified": false
+    },
+    {
+      "first_name": "Superm",
+      "last_name": "Nandal",
+      "email": "superm.nandal@gmail.com",
+      "phone": "+911234567890",
+      "verified": true
+    }, {
+      "first_name": "Superm",
+      "last_name": "Nandal",
+      "email": "superm.nandal@gmail.com",
+      "phone": "+911234567890",
+      "verified": true
+    },
+    {
+      "first_name": "Superm",
+      "last_name": "Nandal",
+      "email": "superm.nandal@gmail.com",
+      "phone": "+911234567890",
+      "verified": false
+    },
+    {
+      "first_name": "Superm",
+      "last_name": "Nandal",
+      "email": "superm.nandal@gmail.com",
+      "phone": "+911234567890",
+      "verified": true
+    }, {
+      "first_name": "Superm",
+      "last_name": "Nandal",
+      "email": "superm.nandal@gmail.com",
+      "phone": "+911234567890",
+      "verified": true
+    },
+    {
+      "first_name": "Superm",
+      "last_name": "Nandal",
+      "email": "superm.nandal@gmail.com",
+      "phone": "+911234567890",
+      "verified": false
+    },
+    {
+      "first_name": "Superm",
+      "last_name": "Nandal",
+      "email": "superm.nandal@gmail.com",
+      "phone": "+911234567890",
+      "verified": true
+    }
+  ]
+}
